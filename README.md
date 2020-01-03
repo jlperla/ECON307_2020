@@ -91,7 +91,7 @@ See [Syllabus](syllabus.md) for more details
 36. **March 29th** - Review [Problem Set 5](/problem_sets/problem_set_5.pdf)
 37. **April 1st** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
 38. **April 3rd** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf) and [Problem Set 6](/problem_sets/problem_set_6.pdf)
--->
+
 
 ## Problem Sets and Exams
 1. **Due in Class January 11th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
