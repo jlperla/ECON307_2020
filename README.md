@@ -15,7 +15,7 @@ See [Syllabus](syllabus.md) for more details
 2. **January 8th** - [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
 3. **January 10th** - [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
 4. **January 13th** -  [Math Review](/lecture_notes/math_review.pdf)
-5. **January 15th** -
+5. **January 15th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 6. **January 17th** - [Problem Set 0](/problem_sets/problem_set_0.pdf) and [Problem Set 1](/problem_sets/problem_set_1.pdf) review
 7. **January 20th** - 
 8. **January 22nd** - 
