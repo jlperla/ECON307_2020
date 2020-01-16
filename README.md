@@ -8,7 +8,7 @@ Not required, but consider
 See [Syllabus](syllabus.md) for more details
 
 ## Problem Sets and Exams
-1. **Due in Class January 17th** - [Problem Set 0](/problem_sets/problem_set_0.pdf) and [Problem Set 1](/problem_sets/problem_set_1.pdf)
+1. **Due in Class January 22nd** - [Problem Set 0](/problem_sets/problem_set_0.pdf) and [Problem Set 1](/problem_sets/problem_set_1.pdf)
 
 ## Lectures
 1. **January 6th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -17,8 +17,8 @@ See [Syllabus](syllabus.md) for more details
 4. **January 13th** -  [Math Review](/lecture_notes/math_review.pdf)
 5. **January 15th** - Snow Day!
 6. **January 17th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
-7. **January 20th** - [Problem Set 0](/problem_sets/problem_set_0.pdf) and [Problem Set 1](/problem_sets/problem_set_1.pdf) review
-8. **January 22nd** - 
+7. **January 20th** - 
+8. **January 22nd** - [Problem Set 0](/problem_sets/problem_set_0.pdf) and [Problem Set 1](/problem_sets/problem_set_1.pdf) review
 9. **January 24nd** - 
 10. **January 27th** - 
 11. **January 29th** - 
