@@ -17,9 +17,9 @@ See [Syllabus](syllabus.md) for more details
 4. **January 13th** -  [Math Review](/lecture_notes/math_review.pdf)
 5. **January 15th** - Snow Day!
 6. **January 17th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
-7. **January 20th** - 
+7. **January 20th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 8. **January 22nd** - [Problem Set 0](/problem_sets/problem_set_0.pdf) and [Problem Set 1](/problem_sets/problem_set_1.pdf) review
-9. **January 24nd** - 
+9. **January 24nd** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
 10. **January 27th** - 
 11. **January 29th** - 
 12. **January 31st** - 
