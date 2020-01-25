@@ -9,6 +9,7 @@ See [Syllabus](syllabus.md) for more details
 
 ## Problem Sets and Exams
 1. **Due in Class January 22nd** - [Problem Set 0](/problem_sets/problem_set_0.pdf) and [Problem Set 1](/problem_sets/problem_set_1.pdf)
+4. **Midterm February 14th 11:30-1:30pm** - Exam is in IONA 301 - NOT the regular classroom.
 
 ## Lectures
 1. **January 6th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -19,8 +20,8 @@ See [Syllabus](syllabus.md) for more details
 6. **January 17th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 7. **January 20th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 8. **January 22nd** - [Problem Set 0](/problem_sets/problem_set_0.pdf) and [Problem Set 1](/problem_sets/problem_set_1.pdf) review
-9. **January 24nd** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
-10. **January 27th** - 
+9. **January 24nd** - More on consumption smoothing
+10. **January 27th** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
 11. **January 29th** - 
 12. **January 31st** - 
 13. **February 3rd** - 
