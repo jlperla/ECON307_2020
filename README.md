@@ -22,8 +22,8 @@ See [Syllabus](syllabus.md) for more details
 8. **January 22nd** - [Problem Set 0](/problem_sets/problem_set_0.pdf) and [Problem Set 1](/problem_sets/problem_set_1.pdf) review
 9. **January 24nd** - More on consumption smoothing
 10. **January 27th** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
-11. **January 29th** - 
-12. **January 31st** - 
+11. **January 29th** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
+12. **January 31st** -  [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 13. **February 3rd** - 
 14. **February 5th** -
 15. **February 7th** -
