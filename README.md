@@ -9,6 +9,7 @@ See [Syllabus](syllabus.md) for more details
 
 ## Problem Sets and Exams
 1. **Due in Class January 22nd** - [Problem Set 0](/problem_sets/problem_set_0.pdf) and [Problem Set 1](/problem_sets/problem_set_1.pdf)
+1. **Due in Class February 7th** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
 4. **Midterm February 14th 11:30-1:30pm** - Exam is in IONA 301 - NOT the regular classroom.
 
 ## Lectures
@@ -23,10 +24,10 @@ See [Syllabus](syllabus.md) for more details
 9. **January 24nd** - More on consumption smoothing
 10. **January 27th** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
 11. **January 29th** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
-12. **January 31st** -  [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
-13. **February 3rd** - 
+12. **January 31st** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
+13. **February 3rd** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 14. **February 5th** -
-15. **February 7th** -
+15. **February 7th** - PS3 Review
 16. **February 10th** - 
 17. **February 12th** - Midterm review
 18. **February 14th** - Midterm exam
