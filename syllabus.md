@@ -10,9 +10,9 @@
  This is a course in the tools of modern macroeconomics.  The emphasis will be on theory to help tune your intuition, and provide different lenses to interpret the macro-economy.
 
 - **Instructor:** jesse.perla@ubc.ca
+  - **Office Hours:** Wednesday 3:30pm-4:30pm in Iona 206
 - **Teaching Assistant:** Anubhav Jha, anubhavpcjha@gmail.com
-
-- **Office Hours:** Wednesday 3:30pm-4:30pm in Iona 206
+  - **Office Hours:** Monday 5:00pm-6:00pm in Iona 441
 - **Prerequisites:**  A score of 68\% or higher in ECON 305
 - **Textbook:** None.  I will post my notes online (modifications of notes graciously provided by Thomas J. Sargent).  Pay attention and ask questions in class rather than writing down everything I say.
 - **Learning Environment:** Come to class on time.  No cellphones.
