@@ -11,7 +11,7 @@ See [Syllabus](syllabus.md) for more details
 1. **Due in Class January 22nd** - [Problem Set 0](/problem_sets/problem_set_0.pdf) and [Problem Set 1](/problem_sets/problem_set_1.pdf)
 1. **Due in Class February 7th** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
 2. **Due in Class February 12** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
-3. **Discussed in Class February 12** - [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
+3. **Discussed in Class February 12** - [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf) not handed ni
 4. **Midterm February 14th 11:30-1:30pm** - Exam is in IONA 301 - NOT the regular classroom.
 
 ## Lectures
