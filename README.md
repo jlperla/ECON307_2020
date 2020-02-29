@@ -13,6 +13,7 @@ See [Syllabus](syllabus.md) for more details
 2. **Due in Class February 12** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
 3. **Discussed in Class February 12** - [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf) not handed ni
 4. **Midterm February 14th 11:30-1:30pm** - Exam is in IONA 301 - NOT the regular classroom.
+5. **Due in Class March 9th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 
 ## Lectures
 1. **January 6th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -34,13 +35,13 @@ See [Syllabus](syllabus.md) for more details
 17. **February 12th** - PS3/Midterm review
 18. **February 14th** - Midterm exam
 19. **February 17th/19th/21st** - SPRING BREAK
-20. **February 24th** - 
-21. **February 26th** -
-22. **February 28th** -
-23. **March 2nd** - 
-24. **March 4th** - 
+20. **February 24th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
+21. **February 26th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
+22. **February 28th** -[Search](/lecture_notes/search.pdf)
+23. **March 2nd** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
+24. **March 4th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 25. **March 6th** - 
-26. **March 9th** - 
+26. **March 9th** - PS4 Review
 27. **March 11th** -
 28. **March 13th** -
 29. **March 16th** - 
