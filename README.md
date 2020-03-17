@@ -14,6 +14,9 @@ See [Syllabus](syllabus.md) for more details
 3. **Discussed in Class February 12** - [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf) not handed ni
 4. **Midterm February 14th 11:30-1:30pm** - Exam is in IONA 301 - NOT the regular classroom.
 5. **Due in Class March 9th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
+6. **Due at Class time March 23rd** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
+7. **Due at Class time April 3rd** - [Problem Set 6](/problem_sets/problem_set_6.pdf)
+8. **Assigned/Due April 8th** - Final Problem Set
 
 ## Lectures
 1. **January 6th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -40,22 +43,22 @@ See [Syllabus](syllabus.md) for more details
 22. **February 28th** -[Search](/lecture_notes/search.pdf)
 23. **March 2nd** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 24. **March 4th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
-25. **March 6th** - 
+25. **March 6th** -  [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 26. **March 9th** - PS4 Review
-27. **March 11th** -
-28. **March 13th** -
-29. **March 16th** - 
-30. **March 18th** -
-31. **March 20th** -
-32. **March 23th** - 
-33. **March 25th** - 
-34. **March 27th** - 
-35. **March 30th** - 
-36. **April 1st** - 
-37. **April 3rd** - 
-38. **April 6th** - 
-39. **April 8th** - 
-<!--
+27. **March 11th** -  [Interest Rates](/lecture_notes/interest_rates.pdf)
+28. **March 13th** -  [Interest Rates](/lecture_notes/interest_rates.pdf)
+29. **March 16th** - [Stochastic Interest Rates](/lecture_notes/stochastic_interest_rates.pdf)
+30. **March 18th** - [Growth](/lecture_notes/growth.pdf)
+31. **March 20th** - [Growth](/lecture_notes/growth.pdf) or maybe [Rational and Adaptive Expectations](/lecture_notes/rational_adaptive_expectations.pdf) and [Additional Slides](/lecture_notes/rational_adpt_exp.pdf)
+32. **March 23th** - PS5 Review
+33. **March 25th** - [Growth](/lecture_notes/growth.pdf)
+34. **March 27th** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
+35. **March 30th** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
+36. **April 1st** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
+37. **April 3rd** - PS6 Review
+38. **April 6th** - Review Session
+39. **April 8th** - Final take home assignment (assigned and due same day)
+<!-- 
 1. **January 2nd** -  [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
 2. **January 4th** - [Math Review](/lecture_notes/math_review.pdf)
 3. **January 7th** - [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
