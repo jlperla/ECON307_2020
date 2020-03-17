@@ -24,10 +24,10 @@ All materials will be provided online:
 
 ## Grading
 This material is best learned by doing exercises.  When appropriate, I will review some of the problem set answers in class.
-- 6-8 problem sets: 40%
+- 6 problem sets: 40%
 - Midterm: 30%.  I will provide many practice problems beforehand.
-- Final Assignment: 30%.  I will provide many practice problems beforehand.
-
+- Final Assignment: 30%
+- 
 **Missed Exam Policy:** You are responsible for ensuring that you take these exams as scheduled; no make-up exams will be given. If you miss the mid-term for a valid, documented reason the mid-term weight will be added to the final; otherwise you receive zero for it.  The final exam date will be announced by Student Services about half-way through the term. The final exam is part of the course and everyone MUST take it as scheduled. If you miss the final exam you will receive a mark of ZERO for it. There is no make-up final. Travel plans and/or cheap tickets are not a reason to miss the final. If you have a medical 	or other compelling reason why you cannot take the final exam at its scheduled time you must follow the formal process and get an Academic Concession from your Faculty Advising Office within 24 hours of the exam.
 
 ### UBC values and policies
