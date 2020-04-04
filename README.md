@@ -15,6 +15,7 @@ See [Syllabus](syllabus.md) for more details
 4. **Midterm February 14th 11:30-1:30pm** - Exam is in IONA 301 - NOT the regular classroom.
 5. **Due in Class March 9th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 6. **Due at Class time March 23rd** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
+6. **Practice Problems Discussed 6th/8th** - [Practice Problems](/problem_sets/problem_set_6.pdf)
 8. **Assigned April 8th, due midnight April 10th** - Final Problem Set
 
 ## Lectures
